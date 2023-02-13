@@ -1,0 +1,26 @@
+body {margin:0;padding:0;word-wrap:break-word;}
+img {border:none;}
+input {border:1px solid black;border-radius:2px;padding:0;}
+input[type=image] { border: none; }
+textarea {border:1px solid black;padding:0;}
+* {box-sizing:content-box;-moz-box-sizing:content-box;-webkit-box-sizing:content-box;-ms-box-sizing:content-box;}
+a:link {color:#78afc7;text-decoration:underline;}
+a:active {color:#78afc7;text-decoration:underline;}
+a:hover {color:#78afc7;text-decoration:underline;}
+a:visited {color:#78afc7;text-decoration:underline;}
+.DefaultParagraph { text-align:left;margin:0px;text-indent:0.0px;line-height:1px;font-family:"Verdana", sans-serif;font-style:normal;font-weight:normal;color:#000000;background-color:transparent;font-variant:normal;font-size:16.0px;vertical-align:0; }
+.Body { text-align:left;margin:0px 0px 12px;text-indent:0.0px;line-height:1px;font-family:"Verdana", sans-serif;font-style:normal;font-weight:normal;color:#000000;background-color:transparent;font-variant:normal;font-size:16.0px;vertical-align:0; }
+.Body-Small { text-align:left;margin:0px;text-indent:0.0px;line-height:1px;font-family:"Arial", sans-serif;font-style:normal;font-weight:normal;color:#82827b;background-color:transparent;font-variant:normal;font-size:12.0px;vertical-align:0; }
+.Body23 { text-align:left;margin:0px 0px 12px;text-indent:0.0px;line-height:1px;font-family:"Trebuchet MS", sans-serif;font-style:normal;font-weight:normal;color:#5f737c;background-color:transparent;font-variant:normal;font-size:14.0px;vertical-align:0; }
+.Body3 { text-align:left;margin:0px 0px 12px;text-indent:0.0px;line-height:1px;font-family:"Verdana", sans-serif;font-style:normal;font-weight:normal;color:#000000;background-color:transparent;font-variant:normal;font-size:16.0px;vertical-align:0; }
+.Body7 { text-align:left;margin:0px 0px 12px;text-indent:0.0px;line-height:1px;font-family:"Trebuchet MS", sans-serif;font-style:normal;font-weight:normal;color:#858585;background-color:transparent;font-variant:normal;font-size:17.0px;vertical-align:0; }
+.Body84 { text-align:left;margin:0px 0px 12px;text-indent:0.0px;line-height:1px;font-family:"Arial", sans-serif;font-style:normal;font-weight:normal;color:#5f737c;background-color:transparent;font-variant:normal;font-size:13.0px;vertical-align:0; }
+.Heading { text-align:left;margin:0px 0px 20px;text-indent:0.0px;line-height:1px;font-family:"Georgia", serif;font-style:normal;font-weight:normal;color:#575752;background-color:transparent;font-variant:normal;font-size:29.0px;vertical-align:0; }
+.Heading-16 { text-align:left;margin:0px 0px 20px;text-indent:0.0px;line-height:1px;font-family:"Trebuchet MS", sans-serif;font-style:normal;font-weight:normal;color:#5f737c;background-color:transparent;font-variant:normal;font-size:16.0px;vertical-align:0;letter-spacing:0.40px; }
+.Heading-32 { text-align:left;margin:0px 0px 13px;text-indent:0.0px;line-height:1px;font-family:"Georgia", serif;font-style:normal;font-weight:normal;color:#82827b;background-color:transparent;font-variant:normal;font-size:20.0px;vertical-align:0; }
+.Heading5 { text-align:left;margin:0px 0px 20px;text-indent:0.0px;line-height:1px;font-family:"Trebuchet MS", sans-serif;font-style:normal;font-weight:700;color:#5f737c;background-color:transparent;font-variant:normal;font-size:27.0px;vertical-align:0;letter-spacing:0.40px; }
+.Headings { text-align:left;margin:0px;text-indent:0.0px;line-height:1px;font-family:"Verdana", sans-serif;font-style:normal;font-weight:normal;color:#000000;background-color:transparent;font-variant:normal;font-size:16.0px;vertical-align:0; }
+.Normal { text-align:left;margin:0px;text-indent:0.0px;line-height:1px;font-family:"Verdana", sans-serif;font-style:normal;font-weight:normal;color:#000000;background-color:transparent;font-variant:normal;font-size:16.0px;vertical-align:0; }
+.Quote4 { text-align:center;margin:0px 0px 1px;text-indent:0.0px;line-height:1px;font-family:"Trebuchet MS", sans-serif;font-style:normal;font-weight:normal;color:#e8eeed;background-color:transparent;font-variant:normal;font-size:27.0px;vertical-align:0; }
+.Sub-Title2 { text-align:left;margin:0px 0px 12px;text-indent:0.0px;line-height:1px;font-family:"Trebuchet MS", sans-serif;font-style:normal;font-weight:normal;color:#5f737c;background-color:transparent;font-variant:normal;font-size:21.0px;vertical-align:0; }
+.Title4 { text-align:left;margin:0px 0px 20px;text-indent:0.0px;line-height:1px;font-family:"Georgia", serif;font-style:normal;font-weight:normal;color:#000000;background-color:transparent;font-variant:normal;font-size:32.0px;vertical-align:0;letter-spacing:0.40px; }
